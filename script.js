@@ -105,8 +105,6 @@ const products = [
   { id: 7,  name: "With God Stone Wash Statement Tee",  category: "Unisex",    type: "design",    image: "images/shirt7.jpg", description: "Premium stone-washed oversized tee featuring 'With God All Things Are Possible' back print. Sizes M – XXL." },
   { id: 8,  name: "Praise The Lord Stone Wash Tee",     category: "Unisex",    type: "design",    image: "images/shirt8.jpg", description: "Premium oversized stone-wash tee featuring 'Praise The Lord' front print and Psalm 150:6 back design. Sizes M – XXL." },
   { id: 9,  name: "Mindset Over Everything Graphic Tee",category: "Unisex",    type: "design",    image: "images/shirt9.jpg", description: "Bold 'Mindset Over Everything' front graphic on premium 100% cotton. Sizes M – XXL." },
-  { id: 16, name: "Stonewash Sleeveless",               category: "Sleeveless",type: "sleeveless",price: 17000, image: "images/stonewash-sleeveless.jpg", description: "Vintage stone-washed sleeveless shirt with a uniquely textured finish. Sizes M – XXL." },
-  { id: 17, name: "Premium Sleeveless",                 category: "Sleeveless",type: "sleeveless",price: 20000, image: "images/premium-sleeveless.jpg",    description: "Heavyweight premium sleeveless shirt. Clean, structured silhouette. Sizes M – XXL." },
 ];
 
 // ===================================
